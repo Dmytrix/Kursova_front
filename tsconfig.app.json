@@ -1,0 +1,14 @@
+/* To learn more about this file see: https://angular.io/config/tsconfig. */
+{
+  "extends": "../../Mykursova/front/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": [
+    "../../Mykursova/front/src/main.ts"
+  ],
+  "include": [
+    "../../Mykursova/front/src/**/*.d.ts"
+  ]
+}

@@ -1,0 +1,14 @@
+/* To learn more about this file see: https://angular.io/config/tsconfig. */
+{
+  "extends": "../../Mykursova/front/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/spec",
+    "types": [
+      "jasmine"
+    ]
+  },
+  "include": [
+    "../../Mykursova/front/src/**/*.spec.ts",
+    "../../Mykursova/front/src/**/*.d.ts"
+  ]
+}
